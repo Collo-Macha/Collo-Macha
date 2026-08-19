@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=collo-macha&label=Profile%20views&color=0e75b6&style=flat" alt="collo-macha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=collo-macha" alt="collo-macha" /></a> </p>
+<p align="left"> <a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=collo-macha&theme=flat&row=1&column=7&margin-w=8" alt="collo-macha" /></a> </p></a> </p>
 
 - 🔭 I’m currently working on [AI avatar that translates sign language](https://github.com/Collo-Macha/sign_language_interprator.git)
 
